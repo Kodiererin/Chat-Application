@@ -1,7 +1,7 @@
 
 # Chat Application
 
-A Java-based Chat Application is a messaging platform that allows users to communicate in real-time. It consists of a server and client component. The server manages connections and facilitates message exchange, while the client provides the user interface for sending and receiving messages. Java's networking capabilities and multithreading support make it an ideal choice for developing efficient and responsive chat applications.
+A Java-based Chat Application is a messaging platform that allows users to communicate in real-time. It consists of a server and client component. The server manages connections and facilitates message exchange, while the client provides the user interface for sending and receiving messages. Java's networking capabilities and multithreading support make it an ideal choice for developing efficient and responsive chat applications....
 
 ## Run Locally
 
